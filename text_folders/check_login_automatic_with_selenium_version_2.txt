@@ -1,0 +1,13 @@
+{"time": "2024-03-29 10:50:22", "result": "testcase: dang_nhap_thanh_cong , result : "}
+{"time": "2024-03-29 10:50:32", "result": "testcase: sai_mat_khau , result : "}
+{"time": "2024-03-29 10:50:41", "result": "testcase: username_khong_du_6_ky_tu , result : Tên đăng nhập phải có ít nhất 6 ký tự."}
+{"time": "2024-03-29 10:50:51", "result": "testcase: username_hon_6_ky_tu , result : "}
+{"time": "2024-03-29 10:51:00", "result": "testcase: khong_co_user_name , result : "}
+{"time": "2024-03-29 10:51:09", "result": "testcase: username_co_ky_tu_dac_biet , result : "}
+{"time": "2024-03-29 10:51:19", "result": "testcase: password_khong_du_6_ky_tu , result : Mật khẩu phải có ít nhất 6 ký tự và bao gồm cả chữ và số."}
+{"time": "2024-03-29 10:51:28", "result": "testcase: password_hon_6_ky_tu , result : "}
+{"time": "2024-03-29 10:51:38", "result": "testcase: password_khong_bao_gom_chu , result : Mật khẩu phải có ít nhất 6 ký tự và bao gồm cả chữ và số."}
+{"time": "2024-03-29 10:51:47", "result": "testcase: password_khong_bao_gom_so , result : Mật khẩu phải có ít nhất 6 ký tự và bao gồm cả chữ và số."}
+{"time": "2024-03-29 10:51:56", "result": "testcase: password_bao_gom_ca_ky_tu_dac_biet , result : "}
+{"time": "2024-03-29 10:52:05", "result": "testcase: password_rong , result : "}
+{"time": "2024-03-29 10:52:15", "result": "testcase: username_chua_dang_ky , result : "}

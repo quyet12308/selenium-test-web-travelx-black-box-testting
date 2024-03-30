@@ -1,0 +1,4 @@
+{"time": "2024-03-29 10:54:39", "result": "testcase: dang_nhap_thanh_cong , result : Đăng nhập thành công!"}
+{"time": "2024-03-29 10:54:51", "result": "testcase: sai_mat_khau , result : Lỗi: Wrong password"}
+{"time": "2024-03-29 10:55:00", "result": "testcase: username_khong_du_6_ky_tu , result : Tên đăng nhập phải có ít nhất 6 ký tự."}
+{"time": "2024-03-29 10:55:14", "result": "testcase: username_hon_6_ky_tu , result : Lỗi: Account is not registered"}
